@@ -1,18 +1,9 @@
 <h1 align="center">
-    Afzal Imdad - Portfolio
+    Sidhique - Portfolio
 </h1>
 <p align="center">
   This personal portfolio website is developed by using <a href="https://www.netlify.com/" target="_blank">Next.js</a>.
 </p>
-<p align="center">
-  Check Demo:
-  <a href="http://afzalimdad9.vercel.app" target="_blank">Personal Portfolio</a>
-</p>
-
-<div align="center">
-  <img src="./public/assets/portfolio.gif" alt="Portfolio Demo" width="100%" />
-  <br>
-</div>
 
 ## 🛠 Installation and Setup Instructions
 

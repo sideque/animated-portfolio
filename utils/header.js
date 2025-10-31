@@ -17,8 +17,8 @@ const header = {
         onClick: () => openLink('assets/cv.pdf')
     },
     logo: {
-        src: '/assets/profile.jpg',
-        alt: 'afzalimdad9'
+        src: '/assets/profile1.jpg',
+        alt: 'sidhique'
     },
     handleIconClick: () => scrollTo('home'),
     handleItemSelect: (menu) => scrollTo(menu.id),

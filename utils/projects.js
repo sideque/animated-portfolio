@@ -3,55 +3,59 @@ const projects = {
     list: [
         {
             image: '/assets/projects/PIAIC.png',
-            label: 'Featured Project',
-            title: 'PIAIC Web/Portal',
-            description: 'The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.',
+            label: 'E-Commerce Web Application',
+            title: 'MobiVault',
+            description: 'MobiVault is a modern e-commerce platform designed for mobile phone shopping. It provides a seamless experience for users to browse, purchase, and manage mobile products while offering an intuitive admin dashboard for product, order, and coupon management.',
             techs: [
-                'React Js',
-                'Express Js',
-                'Mongodb',
+                "EJS",
+                'Node.js',
+                'MongoDB',
+                'Nodemailer',
+                'Passport.js'
             ]
         },
         {
             image: '/assets/projects/digitalplattform.png',
-            label: 'Featured Project',
-            title: 'Digital Plattform',
-            description: 'A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media',
+            label: 'Admin Dashboard',
+            title: 'MobiVault Admin',
+            description: 'The admin dashboard of MobiVault enables efficient management of products, orders, coupons, and users through an intuitive and responsive interface built with HTML, CSS, and Node.js.',
             techs: [
-                'React Js',
-                'Express Js',
-                'GraphQl/Apollo',
-                'Mongodb',
+                'HTML',
+                'CSS',
+                'JavaScript'
             ]
         },
         {
             image: '/assets/projects/declinica.png',
-            label: 'Featured Project',
-            title: 'Declinica',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            label: 'Interactive Website / Web Experience',
+            title: 'GamingWeb',
+            description: 'GamingWeb is a dynamic website featuring interactive gaming-themed content built using HTML, CSS and JavaScript, providing a fun and engaging user experience.',
             techs: [
-                'React Js',
-                'Web3 Js',
+                'HTML',
+                'CSS',
+                'JavaScript'
             ]
         },
         {
             image: '/assets/projects/rolazdoro.png',
-            label: 'Featured Project',
-            title: `Rolaz D'oro`,
-            description: `One of the main objective of Rolaz D'ORO is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
+            label: 'Understanding LIFO and FIFO Concepts',
+            title: `Stack vs Queue Visualizer`,
+            description: `This simple HTML-based visualization is designed for learners who struggle to understand the LIFO (Last In, First Out) and FIFO (First In, First Out) concepts. It visually demonstrates how Stack and Queue data structures work, making it easier to grasp their core differences through a clear and interactive interface.`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'HTML',
+                'CSS',
+                'JavaScript',
             ]
         },
         {
             image: '/assets/projects/chainracers.png',
-            label: 'Featured Project',
-            title: `Chainracers`,
-            description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
+            label: 'Manage Student Data Efficiently',
+            title: `Student Management App`,
+            description: `A web-based application designed to help manage student records, courses, and academic details efficiently. It provides an easy-to-use interface for adding, updating, and viewing student information — a perfect project for understanding CRUD operations and full-stack web development.`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Ejs',
+                'JavaScript',
+                'TypeScript'
             ]
         }
     ]

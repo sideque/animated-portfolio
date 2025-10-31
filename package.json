@@ -24,5 +24,17 @@
   "devDependencies": {
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.3"
-  }
+  },
+  "description": "<h1 align=\"center\">\r     Afzal Imdad - Portfolio\r </h1>\r <p align=\"center\">\r   This personal portfolio website is developed by using <a href=\"https://www.netlify.com/\" target=\"_blank\">Next.js</a>.\r </p>\r <p align=\"center\">\r   Check Demo:\r   <a href=\"http://afzalimdad9.vercel.app\" target=\"_blank\">Personal Portfolio</a>\r </p>",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzalimdad9/animated-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afzalimdad9/animated-portfolio/issues"
+  },
+  "homepage": "https://github.com/afzalimdad9/animated-portfolio#readme"
 }
